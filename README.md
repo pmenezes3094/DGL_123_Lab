@@ -48,7 +48,9 @@
          
 ### 5. Renu
    Links
-   [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
+   1.[PHP Best Practices Tips](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
+   2.[Why is code quality such a big deal for developers?](https://medium.com/@cleverti/why-is-code-quality-such-a-big-deal-for-developers-91bdace85d44)
+   3.[Code quality: a concern for businesses](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
    
    Summary
    1. **Consistent Coding Style:**
