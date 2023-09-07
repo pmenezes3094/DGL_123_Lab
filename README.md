@@ -46,22 +46,27 @@
          Use Software Composition Analysis (SCA) to monitor and identify security issues in dependencies.
          SCA can detect security vulnerabilities, attacks on open source repositories, and backdoors injected by malicious committers.
          
-### 5. Renu
+### 3. Renu
    Links
    - [PHP Best Practices Tips](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
    - [Why is code quality such a big deal for developers?](https://medium.com/@cleverti/why-is-code-quality-such-a-big-deal-for-developers-91bdace85d44)
    - [Code quality: a concern for businesses](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
    
    Summary
-   1. **Consistent Coding Style:**
-   - Follow a consistent coding style for readability.
-   - Include indentation,proper naming,whitespace,comments etc.
+    1. **Consistent Coding Style:**
+    - Follow a consistent coding style for readability.
+    - Include indentation,proper naming,whitespace,comments etc.
 
-   2. **Strict Data Types:**
-   - Explicitly specify the data types to clarify variable data types.
+    2. **Strict Data Types:**
+    - Explicitly specify the data types to clarify variable data types.
      
-   3.**Avoid Global Variables:**
-   - Minimize the use of global variables to prevent scope and naming conflicts.
+    3.**Avoid Global Variables:**
+    - Minimize the use of global variables to prevent scope and naming conflicts.
+    
+    4.**Use an Autoloader:**
+    - Implement an autoloader to include necessary files automatically.
+
+    
 
 
 ## Checklist
