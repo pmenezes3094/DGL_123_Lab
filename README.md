@@ -1,13 +1,13 @@
 # DGL_123_Lab
 
-Group Members
+##Group Members
 1. Priya
 2. Josmi
 3. Renu
 
 
 
-Checklist
+##Checklist
 1.	Solves the problem
 ([Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/))
 2.	Maintaining a Proper Documentation of your Code
@@ -26,3 +26,8 @@ Checklist
 ([Source](https://www.encora.com/insights/best-practices-to-improve-code-quality))
 13.	Avoid using global variables
 ([Source](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/))
+
+
+##References
+- [Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
+  
