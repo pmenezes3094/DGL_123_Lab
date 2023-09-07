@@ -33,4 +33,5 @@
 - [Source](https://corephp.com/php-best-practices-that-you-must-follow/)
 - [Source](https://www.informit.com/articles/article.aspx?p=2223710)
 - [Source](https://www.encora.com/insights/best-practices-to-improve-code-quality)
+- [Source](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
   
