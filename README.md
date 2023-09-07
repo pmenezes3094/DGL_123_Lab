@@ -6,15 +6,29 @@
 3. Renu
 
 ## Individual Contribution
-1. Priya
-   ### Links
-   ### Summary
-2. Josmi
-   ### Links
-   1. ("Improving Code Quality with Automaton" by Sonatype)[https://blog.sonatype.com/improving-code-quality-with-automation]
-   2. ("Best Practices to Improve Code Quality" by encora.com)[https://www.encora.com/insights/best-practices-to-improve-code-quality]
-   3. ("Clean Code in PHP: Best Practices and Principles" by medium.com)https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7
-   ### Summary
+### 1. Priya
+   Links
+   -[15 Rules for Writing Quality Code](https://www.informit.com/articles/article.aspx?p=2223710)
+   -[20+ PHP Best Practices That You Must Follow](https://corephp.com/php-best-practices-that-you-must-follow/)
+   -[Writing Quality Code: Practicing “Make It Work, Make It Right, Make It Fast”](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
+   
+   Summary
+   - Maintain coding standards
+   - Dont use short tags
+   - Use meaningful naming styles
+   - Follow formatting rules
+   - Decide on quotation type for strings
+   - Think about error reporting
+   - Use DRY approach
+   - Avoid putting phpinfo() in root directory
+     
+### 2. Josmi
+   Links
+   1. ["Improving Code Quality with Automaton" by Sonatype](https://blog.sonatype.com/improving-code-quality-with-automation)
+   2. ["Best Practices to Improve Code Quality" by encora.com](https://www.encora.com/insights/best-practices-to-improve-code-quality)
+   3. ["Clean Code in PHP: Best Practices and Principles" by medium.com](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7)
+   
+   Summary
      1. Readability:
          Avoid confusing language constructs.
          Adhere to a consistent coding style.
@@ -31,15 +45,17 @@
          Consider third-party dependencies carefully.
          Use Software Composition Analysis (SCA) to monitor and identify security issues in dependencies.
          SCA can detect security vulnerabilities, attacks on open source repositories, and backdoors injected by malicious committers.
-5. Renu
-   ### [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
-   ### Summary
-
-1. **Consistent Coding Style:**
+         
+### 5. Renu
+   Links
+   [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
+   
+   Summary
+   1. **Consistent Coding Style:**
    - Follow a consistent coding style for readability.
    - Include indentation,proper naming,whitespace,comments etc.
 
-2. **Strict Data Types:**
+   2. **Strict Data Types:**
    - Explicitly specify the data types to clarify variable data types.
 
 
@@ -70,4 +86,6 @@
 - [Source3](https://www.informit.com/articles/article.aspx?p=2223710)
 - [Source4](https://www.encora.com/insights/best-practices-to-improve-code-quality)
 - [Source5](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
+
+## Self Evaluation
   
