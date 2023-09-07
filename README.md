@@ -29,19 +29,19 @@
    3. ["Clean Code in PHP: Best Practices and Principles" by medium.com](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7)
    
    Summary
-     1. Readability:
+     - Readability:
          Avoid confusing language constructs.
          Adhere to a consistent coding style.
-     2. Performance:
+     - Performance:
          Detect performance anti-patterns using static code analysis.
          Examples include optimizing code inside loops and identifying concurrency problems.
-     3. Reliability:
+     - Reliability:
          Detect reliability issues within individual components through static analysis.
          Examples include identifying data race conditions, null pointer exceptions, and improper exception handling.
-     4. Security:
+     - Security:
          Automated static scanning can detect security weaknesses.
          Examples include finding weak cryptography, insecure framework configurations, and hard-coded security tokens.
-     5. Dependency Management:
+     - Dependency Management:
          Consider third-party dependencies carefully.
          Use Software Composition Analysis (SCA) to monitor and identify security issues in dependencies.
          SCA can detect security vulnerabilities, attacks on open source repositories, and backdoors injected by malicious committers.
