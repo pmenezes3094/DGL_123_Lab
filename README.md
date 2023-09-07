@@ -59,6 +59,9 @@
 
    2. **Strict Data Types:**
    - Explicitly specify the data types to clarify variable data types.
+     
+   3.**Avoid Global Variables:**
+   - Minimize the use of global variables to prevent scope and naming conflicts.
 
 
 ## Checklist
