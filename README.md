@@ -30,22 +30,22 @@
    
    Summary
    
-      1. Readability:
-         - Avoid confusing language constructs.
-         - Adhere to a consistent coding style.
-      2. Performance:
-         - Detect performance anti-patterns using static code analysis.
-         - Examples include optimizing code inside loops and identifying concurrency problems.
-      3. Reliability:
-         - Detect reliability issues within individual components through static analysis.
-         - Examples include identifying data race conditions, null pointer exceptions, and improper exception handling.
-      4. Security:
-         - Automated static scanning can detect security weaknesses.
-         - Examples include finding weak cryptography, insecure framework configurations, and hard-coded security tokens.
-      5. Dependency Management:
-         - Consider third-party dependencies carefully.
-         - Use Software Composition Analysis (SCA) to monitor and identify security issues in dependencies.
-         - SCA can detect security vulnerabilities, attacks on open source repositories, and backdoors injected by malicious committers.
+   1. Readability:
+      - Avoid confusing language constructs.
+      - Adhere to a consistent coding style.
+   2. Performance:
+      - Detect performance anti-patterns using static code analysis.
+      - Examples include optimizing code inside loops and identifying concurrency problems.
+   3. Reliability:
+      - Detect reliability issues within individual components through static analysis.
+      - Examples include identifying data race conditions, null pointer exceptions, and improper exception handling.
+   4. Security:
+      - Automated static scanning can detect security weaknesses.
+      - Examples include finding weak cryptography, insecure framework configurations, and hard-coded security tokens.
+   5. Dependency Management:
+      - Consider third-party dependencies carefully.
+      - Use Software Composition Analysis (SCA) to monitor and identify security issues in dependencies.
+      - SCA can detect security vulnerabilities, attacks on open source repositories, and backdoors injected by malicious committers.
          
 ### 3. Renu
    Links
@@ -55,25 +55,25 @@
    
    Summary
    
-    1. Consistent Coding Style:
-       - Follow a consistent coding style for readability.
-       - Include indentation,proper naming,whitespace,comments etc.
-    2. Strict Data Types:
-       - Explicitly specify the data types to clarify variable data types.     
-    3. Avoid Global Variables:
-       - Minimize the use of global variables to prevent scope and naming conflicts.    
-    4. Use an Autoloader:
-       - Implement an autoloader to include necessary files automatically.
-    5.Avoid Short Tags:
-       - Always use standard PHP tags (<?php and ?>) to ensure compatibility across different environments.
-    6. Version Control System:
-       - Utilize a version control system like Git to track and manage code changes.
-    7.Use a Framework:
-     - Consider using a PHP framework (e.g., Laravel, Symfony, CodeIgniter) for structured development.
-    8.Security Measures:
-     - Keep security in mind to protect against common threats like SQL injection.    
-    9.Stay Updated:
-       - Continuously update your knowledge of PHP features, libraries, and best practices.
+ 1. Consistent Coding Style:
+    - Follow a consistent coding style for readability.
+    - Include indentation,proper naming,whitespace,comments etc.
+ 2. Strict Data Types:
+    - Explicitly specify the data types to clarify variable data types.     
+ 3. Avoid Global Variables:
+    - Minimize the use of global variables to prevent scope and naming conflicts.    
+ 4. Use an Autoloader:
+    - Implement an autoloader to include necessary files automatically.
+ 5.Avoid Short Tags:
+    - Always use standard PHP tags (<?php and ?>) to ensure compatibility across different environments.
+ 6. Version Control System:
+    - Utilize a version control system like Git to track and manage code changes.
+ 7.Use a Framework:
+  - Consider using a PHP framework (e.g., Laravel, Symfony, CodeIgniter) for structured development.
+ 8.Security Measures:
+  - Keep security in mind to protect against common threats like SQL injection.    
+ 9.Stay Updated:
+    - Continuously update your knowledge of PHP features, libraries, and best practices.
 
     
 
