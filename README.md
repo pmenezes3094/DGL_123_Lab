@@ -8,9 +8,9 @@
 ## Individual Contribution
 ### 1. Priya
    Links
-   -[15 Rules for Writing Quality Code](https://www.informit.com/articles/article.aspx?p=2223710)
-   -[20+ PHP Best Practices That You Must Follow](https://corephp.com/php-best-practices-that-you-must-follow/)
-   -[Writing Quality Code: Practicing “Make It Work, Make It Right, Make It Fast”](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
+   1. [15 Rules for Writing Quality Code](https://www.informit.com/articles/article.aspx?p=2223710)
+   2. [20+ PHP Best Practices That You Must Follow](https://corephp.com/php-best-practices-that-you-must-follow/)
+   3. [Writing Quality Code: Practicing “Make It Work, Make It Right, Make It Fast”](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
    
    Summary
    - Maintain coding standards
