@@ -58,20 +58,28 @@
  1. Consistent Coding Style:
     - Follow a consistent coding style for readability.
     - Include indentation,proper naming,whitespace,comments etc.
+      
  2. Strict Data Types:
-    - Explicitly specify the data types to clarify variable data types.     
+    - Explicitly specify the data types to clarify variable data types.
+         
  3. Avoid Global Variables:
-    - Minimize the use of global variables to prevent scope and naming conflicts.    
+    - Minimize the use of global variables to prevent scope and naming conflicts.
+        
  4. Use an Autoloader:
     - Implement an autoloader to include necessary files automatically.
+      
  5. Avoid Short Tags:
     - Always use standard PHP tags (<?php and ?>) to ensure compatibility across different environments.
+      
  6. Version Control System:
     - Utilize a version control system like Git to track and manage code changes.
+      
  7. Use a Framework:
     - Consider using a PHP framework (e.g., Laravel, Symfony, CodeIgniter) for structured development.
+      
  8. Security Measures:
-    - Keep security in mind to protect against common threats like SQL injection.    
+    - Keep security in mind to protect against common threats like SQL injection.
+      
  9. Stay Updated:
     - Continuously update your knowledge of PHP features, libraries, and best practices.
 
