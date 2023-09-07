@@ -76,7 +76,7 @@
     7.Use a Framework:
     - Consider using a PHP framework (e.g., Laravel, Symfony, CodeIgniter) for structured development.
 
-     8.Security Measures:
+    8.Security Measures:
     - Keep security in mind to protect against common threats like SQL injection.
     
     9.Stay Updated:
