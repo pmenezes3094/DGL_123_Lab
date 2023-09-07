@@ -5,7 +5,16 @@
 2. Josmi
 3. Renu
 
-
+## Individual Contribution
+1. Priya
+   ### Links
+   ### Summary
+3. Josmi
+   ### Links
+   ### Summary
+5. Renu
+   ### Links
+   ### Summary
 
 ## Checklist
 1.	Solves the problem
