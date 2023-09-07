@@ -8,6 +8,7 @@
 ## Individual Contribution
 1. Priya
    ### Links
+   -[15 Rules for Writing Quality Code](https://www.informit.com/articles/article.aspx?p=2223710)
    ### Summary
 3. Josmi
    ### Links
