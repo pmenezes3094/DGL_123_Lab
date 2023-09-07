@@ -30,7 +30,7 @@
    - [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
    Summary
 
-## Final Checklist
+
 1.	Solves the problem
 ([Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/))
 2.	Maintaining a Proper Documentation of your Code
