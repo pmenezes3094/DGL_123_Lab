@@ -1,4 +1,4 @@
-# DGL_123_Lab
+# DGL_123_Lab: Code Quality
 
 ## Group Members
 1. Priya
