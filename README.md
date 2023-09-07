@@ -16,6 +16,14 @@
    ### [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
    ### Summary
 
+1. **Consistent Coding Style:**
+   - Follow a consistent coding style for readability.
+   - Include indentation,proper naming,whitespace,comments etc.
+
+2. **Strict Data Types:**
+   - Explicitly specify the data types to clarify variable data types.
+
+
 ## Checklist
 1.	Solves the problem
 ([Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/))
