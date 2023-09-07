@@ -53,17 +53,17 @@
    - [Code quality: a concern for businesses](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
    
    Summary
-    1. **Consistent Coding Style:**
+    1. Consistent Coding Style:
     - Follow a consistent coding style for readability.
     - Include indentation,proper naming,whitespace,comments etc.
 
-    2. **Strict Data Types:**
+    2. Strict Data Types:
     - Explicitly specify the data types to clarify variable data types.
      
-    3.**Avoid Global Variables:**
+    3.Avoid Global Variables:
     - Minimize the use of global variables to prevent scope and naming conflicts.
     
-    4.**Use an Autoloader:**
+    4.Use an Autoloader:
     - Implement an autoloader to include necessary files automatically.
 
     
