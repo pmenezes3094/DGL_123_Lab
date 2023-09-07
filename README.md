@@ -13,7 +13,7 @@
    ### Links
    ### Summary
 5. Renu
-   ### Links
+   ### [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
    ### Summary
 
 ## Checklist
