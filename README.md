@@ -32,4 +32,5 @@
 - [Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
 - [Source](https://corephp.com/php-best-practices-that-you-must-follow/)
 - [Source](https://www.informit.com/articles/article.aspx?p=2223710)
+- [Source](https://www.encora.com/insights/best-practices-to-improve-code-quality)
   
